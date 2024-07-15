@@ -1,7 +1,10 @@
 /* Customize nested lists */
-ol[data-list-a] {
+ol[data-list-decimal] {
+  list-style-type: decimal;
+}
+ol[data-list-decimal] > li > ol {
   list-style-type: lower-alpha;
 }
-ol[data-list-a] > li > ol {
-  list-style-type: lower-roman;
+ol[data-list-lower-alpha] {
+  list-style-type: lower-alpha;
 }
