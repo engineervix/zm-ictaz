@@ -1,0 +1,4 @@
+# Ignore artifacts:
+.vitepress/dist
+.vitepress/cache
+sources

@@ -58,5 +58,7 @@ In this Act, unless the context otherwise requires —
   computer system to perform a function or task.
 
 [^1]: Act No. 15 of 2009
+
 [^2]: Act No. 21 of 2009
+
 [^3]: Cap 119

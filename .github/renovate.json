@@ -1,30 +1,30 @@
 {
-    "extends": ["config:base"],
-    "pin": {
+  "extends": ["config:base"],
+  "pin": {
+    "automerge": true,
+    "labels": ["dependencies"]
+  },
+  "packageRules": [
+    {
+      "matchLanguages": ["javascript"],
+      "matchDepTypes": ["dependencies"],
+      "labels": ["dependencies", "javascript"],
+      "updateTypes": ["minor", "patch", "pin", "digest"],
+      "automerge": true,
+      "semanticCommitType": "build"
+    },
+    {
+      "matchDepTypes": ["devDependencies"],
       "automerge": true,
       "labels": ["dependencies"]
     },
-    "packageRules": [
-      {
-        "matchLanguages": ["javascript"],
-        "matchDepTypes": ["dependencies"],
-        "labels": ["dependencies", "javascript"],
-        "updateTypes": ["minor", "patch", "pin", "digest"],
-        "automerge": true,
-        "semanticCommitType": "build"
-      },
-      {
-        "matchDepTypes": ["devDependencies"],
-        "automerge": true,
-        "labels": ["dependencies"]
-      },
-      {
-        "matchManagers": ["github-actions"],
-        "updateTypes": ["patch", "pin", "digest"],
-        "automerge": true,
-        "semanticCommitType": "ci"
-      }
-    ],
-    "timezone": "Africa/Lusaka",
-    "schedule": ["every weekend"]
-  }
+    {
+      "matchManagers": ["github-actions"],
+      "updateTypes": ["patch", "pin", "digest"],
+      "automerge": true,
+      "semanticCommitType": "ci"
+    }
+  ],
+  "timezone": "Africa/Lusaka",
+  "schedule": ["every weekend"]
+}
