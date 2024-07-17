@@ -63,9 +63,6 @@ pandoc \
 
 You need to have [Node.js 22](https://nodejs.org/) installed on your machine. You can use tools such as [nvm](https://github.com/nvm-sh/nvm), [volta](https://volta.sh/), etc. to simplify managing Node.js versions on your machine.
 
-> [!NOTE]  
-> If you have a different Python version and/or you don't have Poetry, try installing the python dependencies via `pip install -r requirements.txt`
-
 ### Getting Started
 
 Upon cloning this repository (or forking + cloning your fork), navigate to the cloned project directory.
