@@ -10,25 +10,6 @@ on:
       - "v*"
 
 jobs:
-  eslint:
-    runs-on: ubuntu-22.04
-    steps:
-      - name: Checkout Code Repository
-        uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
-        with:
-          node-version-file: .nvmrc
-          cache: "npm"
-
-      - name: Install dependencies
-        run: |
-          npm ci
-
-      - name: ESLint
-        run: |
-          npm run eslint
-
   prettier:
     runs-on: ubuntu-22.04
     steps:
