@@ -339,84 +339,115 @@ constitution of the Association.
 
 ## 28. Registers
 
-1.  The Registrar shall maintain a register of all persons
-    registered under this Act in which the Registrar shall enter details
-    relating to—
-
-<!-- -->
-
-1.  information and communications technology professionals;
-
-    1.  the holders of practising certificates and persons whose
-        certificates have been cancelled;
-
-    2.  the applications rejected and the reasons for the rejection; and
-
-    3.  any other information that the Association may determine.
-
-2.  The Register shall be kept in the custody of the Registrar at the
-    offices of the Association and shall be open for inspection by
-    members of the public during normal office hours upon payment of
-    such fee as the Board may determine.
-
-3.  The Registrar may, upon application by any person, issue to the
-    person a certified extract from the Register of a copy of a
-    certificate of registration or practising certificate, upon payment
-    of such fee as the Board may determine.
+<ol data-list-decimal>
+    <li>
+        The Registrar shall maintain a register of all persons
+        registered under this Act in which the Registrar shall enter details
+        relating to—
+        <ol>
+            <li>
+                information and communications technology professionals;
+            </li>
+            <li>
+                the holders of practising certificates and persons whose
+                certificates have been cancelled;
+            </li>
+            <li>
+                the applications rejected and the reasons for the rejection; and
+            </li>
+            <li>
+                any other information that the Association may determine.
+            </li>
+        </ol>
+    </li>
+    <li>
+        The Register shall be kept in the custody of the Registrar at the
+        offices of the Association and shall be open for inspection by
+        members of the public during normal office hours upon payment of
+        such fee as the Board may determine.
+    </li>
+    <li>
+        The Registrar may, upon application by any person, issue to the
+        person a certified extract from the Register of a copy of a
+        certificate of registration or practising certificate, upon payment
+        of such fee as the Board may determine.
+    </li>
+</ol>
 
 ## 29. Removal and restoration of name on Register
 
-1.  The Minister may, on the recommendation of the Board, make
-    regulations prescribing the circumstances and manner in which an
-    information and communications technology professional—
-
-    1.  may be removed from the register; and
-
-    2.  who is removed from the register, may be restored on the register
-        and the fee to be paid for the restoration.
-
-2.  Subject to subsection(1), an information and communications
-    technology professional who is removed from the register ceases to
-    be registered as an information and communications technology
-    professional.
-
-3.  The Board may, where a holder of a practising certificate does not
-    intend to practice for a specified period of time, maintain the name
-    of the holder of the practising certificate on the register, in a
-    non-practising category, for that period of time.
+<ol data-list-decimal>
+    <li>
+        The Minister may, on the recommendation of the Board, make
+        regulations prescribing the circumstances and manner in which an
+        information and communications technology professional—
+        <ol>
+            <li>
+                may be removed from the register; and
+            </li>
+            <li>
+                who is removed from the register, may be restored on the register
+                and the fee to be paid for the restoration.
+            </li>
+        </ol>
+    </li>
+    <li>
+        Subject to subsection(1), an information and communications
+        technology professional who is removed from the register ceases to
+        be registered as an information and communications technology
+        professional.
+    </li>
+    <li>
+        The Board may, where a holder of a practising certificate does not
+        intend to practice for a specified period of time, maintain the name
+        of the holder of the practising certificate on the register, in a
+        non-practising category, for that period of time.
+    </li>
+</ol>
 
 ## 30. Disqualification
 
 A person shall not qualify for registration as a practising
 information and communications technology professional under this
 Act or as a member under the constitution of the Association, if
-that person has been—
+that person has been —
 
-1.  convicted of an offence involving dishonesty in the execution of
-    that person’s duties as an information and communications technology
-    professional;
-
-2.  declared to be mentally and physically incapable of practising; or
-
-3.  found by the Professional Ethics and Compliance Committee
-    established under section 36 to be guilty of professional
-    misconduct.
+<ol data-list-lower-alpha>
+    <li>
+        convicted of an offence involving dishonesty in the execution of
+        that person’s duties as an information and communications technology
+        professional;
+    </li>
+    <li>
+        declared to be mentally and physically incapable of practising; or
+    </li>
+    <li>
+        found by the Professional Ethics and Compliance Committee
+        established under section 36 to be guilty of professional
+        misconduct.
+    </li>
+</ol>
 
 ## 31. Offences regarding information and communications technology professionals
 
-1.  A person commits an offence who—
-
-    1.  makes or causes to be made, an unauthorised entry, alteration or
-        erasure in the Registers, certificate of registration, practising
-        certificate or in any copy thereof; or
-
-    2.  procures or attempts to procure for that person or any other person
-        a practising certificate, or registration of any matter by means of
-        fraud, misrepresentation or concealment of any material fact.
-
-2.  A person under subsection (1) is liable, on conviction, to a fine
-    not exceeding one hundred thousand penalty units or to imprisonment
-    for a term not exceeding ten years, or to both.
+<ol data-list-decimal>
+    <li>A person commits an offence who—
+        <ol>
+            <li>makes or causes to be made, an unauthorised entry, alteration or
+                erasure in the Registers, certificate of registration, practising
+                certificate or in any copy thereof; or
+            </li>
+            <li>procures or attempts to procure for that person or any other person
+                a practising certificate, or registration of any matter by means of
+                fraud, misrepresentation or concealment of any material fact.
+            </li>
+        </ol>
+    </li>
+    <li>A person under subsection (1) is liable, on conviction, to a fine
+        not exceeding one hundred thousand penalty units or to imprisonment
+        for a term not exceeding ten years, or to both.
+    </li>
+</ol>
 
 ## 32. Information and communications technology standards
 
@@ -438,7 +469,6 @@ re-registration.
 1.  A person whose certificate of registration is destroyed or
     lost may apply to the Registrar for a duplicate certificate in the
     prescribed manner and form on payment of the prescribed fee.
-
 2.  The Registrar may, on receipt of an application under subsection
     (1), issue a duplicate certificate of registration to the applicant.
 
