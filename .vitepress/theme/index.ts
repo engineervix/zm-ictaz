@@ -5,7 +5,7 @@ import DefaultTheme from "vitepress/theme";
 import FloatingVue from "floating-vue";
 import "floating-vue/dist/style.css";
 import "./style.css";
-import Annotation from "../components/annotation.vue";
+import Annotation from "../components/Annotation.vue";
 
 export default {
   extends: DefaultTheme,
