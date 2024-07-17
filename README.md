@@ -4,8 +4,9 @@
 >
 > Source: <https://www.parliament.gov.zm/node/7626>
 
-[![Build](https://github.com/engineervix/zm-ictaz/actions/workflows/main.yml/badge.svg)](https://github.com/engineervix/zm-ictaz/actions/workflows/main.yml)
+[![CI](https://github.com/engineervix/zm-ictaz/actions/workflows/main.yml/badge.svg)](https://github.com/engineervix/zm-ictaz/actions/workflows/main.yml)
 [![Node v22](https://img.shields.io/badge/Node-v22-teal.svg)](https://nodejs.org/en/blog/release/v22.0.0)
+[![code style: prettier](https://img.shields.io/badge/code%20style-prettier-ff69b4.svg)](https://prettier.io/)
 
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 
