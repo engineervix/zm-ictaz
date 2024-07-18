@@ -5,7 +5,7 @@
 1.  The Computer Society of Zambia registered under the Societies
     Act, shall continue to exist as if established under this Act and is
     for purposes of this Act renamed the Information and Communications
-    Technology Association of Zambia. <Annotation v-tooltip="'Cap 119'" />
+    Technology Association of Zambia. <Annotation tooltip-content="Cap 119" />
 2.  The Association which shall be a body corporate with perpetual
     succession and a common seal, capable of suing and being sued in its
     corporate name with power, subject to the provisions of this Act, to

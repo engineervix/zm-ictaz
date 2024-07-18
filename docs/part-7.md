@@ -219,7 +219,7 @@ technology professional—
     <li>
         A hearing before the Professional Ethics and Compliance Committee
         shall, for all purposes, and in particular for the purposes of
-        Chapter XI of the Penal Code <Annotation v-tooltip="'Cap. 87'" />,
+        Chapter XI of the Penal Code <Annotation tooltip-content="Cap. 87" />,
         be deemed to be a judicial proceeding.
     </li>
     <li>

@@ -278,7 +278,7 @@ certificate, in a conspicuous place at the place of practice.
 <ol data-list-decimal>
     <li>
         A person who registers a firm of information and communications technology under the
-        Registration of Business Names Act, 2011 <Annotation v-tooltip="'Act No. 16 of 2011.'" />
+        Registration of Business Names Act, 2011 <Annotation tooltip-content="Act No. 16 of 2011." />
         shall register the firm with the Association in the prescribed manner and form upon
         payment of the prescribed fee.
     </li>

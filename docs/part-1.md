@@ -16,10 +16,10 @@ In this Act, unless the context otherwise requires —
 - “**Association**” means the Information and Communications Technology
   Association of Zambia established under section 3;
 - “**Authority**” has the meaning assigned to the word in the Information
-  and Communications Technologies Act, 2009; <Annotation v-tooltip="'Act No. 15 of 2009'" />
+  and Communications Technologies Act, 2009; <Annotation tooltip-content="Act No. 15 of 2009" />
 - “**Committee member**” means a committee member of the Council;
 - “**computer system**” has the meaning assigned to the words in the
-  Electronic Communications and Transactions Act, 2009; <Annotation v-tooltip="'Act No. 21 of 2009'" />
+  Electronic Communications and Transactions Act, 2009; <Annotation tooltip-content="Act No. 21 of 2009" />
 - “**Council**” means the Executive Council of the Association constituted
   under section 7;
 - “**financial year**” means the period of twelve months ending on 31st
@@ -28,7 +28,7 @@ In this Act, unless the context otherwise requires —
   computer system;
 - “**information and communications technology**” has the meaning assigned
   to the words in the Information and Communications Technology Act,
-  2009; <Annotation v-tooltip="'Act No. 15 of 2009'" />
+  2009; <Annotation tooltip-content="Act No. 15 of 2009" />
 - “**information and communications technology consultant**” means a
   person offering consultancy service of any type in information and
   communications technology;
@@ -44,7 +44,7 @@ In this Act, unless the context otherwise requires —
 - “**information systems auditor**” means a person responsible for the
   conduct of audits information systems;
 - “**internet**” has the meaning assigned to the word in the Electronic
-  Communications and Transactions Act, 2009; <Annotation v-tooltip="'Act No. 21 of 2009'" />
+  Communications and Transactions Act, 2009; <Annotation tooltip-content="Act No. 21 of 2009" />
 - “**Journal**” means a periodical publication of the Association;
 - “**practising certificate**” means a certificate issued under section 21
   authorising a person to practice as an information technology
@@ -53,6 +53,6 @@ In this Act, unless the context otherwise requires —
   Professional Ethics and Compliance Committee constituted under section
   40;
 - “**Society**” means the computer Society of Zambia registered under the
-  Societies Act; <Annotation v-tooltip="'Cap 119'" /> and
+  Societies Act; <Annotation tooltip-content="Cap 119" /> and
 - “**software**” means instructions stored electronically required by the
   computer system to perform a function or task.

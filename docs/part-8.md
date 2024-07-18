@@ -26,7 +26,7 @@ third party.
     information and communications technology professional under any
     written law relating to the extradition of persons, in respect of
     the same offence outside Zambia.
-3.  The Mutual Legal Assistance in Criminal Matters Act <Annotation v-tooltip="'Cap. 98'" />
+3.  The Mutual Legal Assistance in Criminal Matters Act <Annotation tooltip-content="Cap. 98" />
     shall apply to proceedings under this Act.
 
 ## 53. Offences by principal officer or shareholder of body corporate or unincorporate body
