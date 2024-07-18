@@ -155,7 +155,7 @@ technology professional—
         technology professional;
     </li>
     <li>
-        permits the information and communications t e c h n o lo g y
+        permits the information and communications technology
         professional’s name or the name of the information and
         communications technology professional’s firm to be used in
         connection with technical specifications, designs or financial
@@ -167,7 +167,7 @@ technology professional—
     <li>
         in a report in which an information and communications technology
         professional’s client has interest, fails to disclose or knowingly
-        conceals from such client mis- statements of facts known to the
+        conceals from such client mis-statements of facts known to the
         information and communications technology professional and the
         disclosure of which is necessary in order that the report does not
         mislead the client; or
@@ -187,7 +187,7 @@ technology professional—
         hand of the Chairperson or the Secretary summon witnesses and
         require the production of any book, record, document, electronic
         record or anything required for the purposes of the proceeding and
-        may through the Chairperson or Vice- Chairperson administer an oath
+        may through the Chairperson or Vice-Chairperson administer an oath
         to any witness.
     </li>
     <li>
